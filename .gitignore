@@ -1,6 +1,9 @@
 .target/
 
 
-### IntelliJ IDEA ###
+
 .idea/
 
+.gitignore
+/target/
+/src/test/
