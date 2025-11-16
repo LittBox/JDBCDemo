@@ -126,6 +126,7 @@ public class StuDao implements IStuDao{
         } finally {
             JDBCUtil.close(conn, null, preStatement, rs);
         }
+        System.out.println("hello world");
         return null;
     }
 }
