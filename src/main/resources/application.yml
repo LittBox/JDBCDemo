@@ -1,0 +1,3 @@
+dbURL: jdbc:mysql://localhost:3306/stu_info?useSSL=false&allowPublicKeyRetrieval=true
+userName: root
+password: 654321
